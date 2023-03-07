@@ -1,5 +1,9 @@
 ### Hi, I'm Mali 👋
 
+|![malihgh GitHub stats](https://github-readme-stats.vercel.app/api/?username=malihgh&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide=stars)|![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malihgh&langs_count=15&layout=compact&show_icons=true&theme=react)|
+|------------|------------| 
+
+
 <!--
 Here are some ideas to get you started:
 
