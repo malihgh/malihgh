@@ -2,11 +2,10 @@
 
 You can find me very easily 😄
 
-[![](https://img.shields.io/badge/malihehGhasemian-white?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/maliheh-ghasemian-2a04391a5/)
 [![](https://img.shields.io/badge/malih.ghasemia%40gmail.com-white?logo=Gmail)](mailto:malih.ghasemian@gmail.com)
-[![](https://img.shields.io/badge/MaliheGhasemian-white?logo=telegram)](https://t.me/MaliheGhasemian)
+[![](https://img.shields.io/badge/malihehGhasemian-white?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/maliheh-ghasemian-2a04391a5/)
 [![](https://img.shields.io/badge/malihgh-white?logo=Gitlab)](https://gitlab.com/malihgh)
-[![](https://img.shields.io/badge/CV-white?logo=AdobeAcrobatReader&logoColor=red)](https://drive.google.com/file/d/1J94SCHMsKeu4oFiA3cyS_LotEQBJd5O4/view?usp=share_link)
+[![](https://img.shields.io/badge/MaliheGhasemian-white?logo=telegram)](https://t.me/MaliheGhasemian)
 [![](https://img.shields.io/badge/Lugano,%20Switzerland-white?logo=Pinboard&logoColor=red)](https://www.google.com/maps/place/Lugano/@46.0294394,8.8482804,12z/data=!3m1!4b1!4m6!3m5!1s0x47842df76a4211f1:0xef8c04212ea1f8e0!8m2!3d46.0036778!4d8.951052!16zL20vMDFyNzZ5)
 
  🎉 I'm a <img src="images/React-icon.svg.png" style="width:45px;height:40px;margin-top:115px"/> developer. 
