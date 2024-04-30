@@ -11,9 +11,14 @@ You can find me very easily 😄
 
  🎉 I'm a <img src="images/React-icon.svg.png" style="width:45px;height:40px;margin-top:115px"/> developer. 
 
-
+<!--
 | ![malihgh GitHub stats](https://github-readme-stats.vercel.app/api/?username=malihgh&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide=stars) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malihgh&langs_count=15&layout=compact&show_icons=true&theme=react) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------- | -----|
+-->
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malihgh&langs_count=15&layout=compact&show_icons=true&theme=react)
+  <img src="https://streak-stats.demolab.com?user=malihgh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+  
+
 
 <!--
 Here are some ideas to get you started:
