@@ -16,7 +16,7 @@ You can find me very easily 😄
 | ------- | -----|
 -->
 ![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=malihgh&langs_count=15&layout=compact&show_icons=true&theme=react)
-  <img src="https://streak-stats.demolab.com?user=malihgh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=malihgh&theme=dark)](https://git.io/streak-stats)
   
 
 
