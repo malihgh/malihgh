@@ -15,7 +15,7 @@ You can find me very easily 😄
 | ![malihgh GitHub stats](https://github-readme-stats.vercel.app/api/?username=malihgh&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide=stars) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malihgh&langs_count=15&layout=compact&show_icons=true&theme=react) |
 | ------- | -----|
 -->
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malihgh&langs_count=15&layout=compact&show_icons=true&theme=react)
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=malihgh&langs_count=15&layout=compact&show_icons=true&theme=react)
   <img src="https://streak-stats.demolab.com?user=malihgh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
   
 
